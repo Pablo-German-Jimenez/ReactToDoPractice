@@ -1,4 +1,4 @@
-##Deploy me ! [https://reactlistaempleados.netlify.app/](https://reacttodopracticee.netlify.app/)
+##Deploy me ! (https://reacttodopracticee.netlify.app/)
 
 # 📝 Task List with React
 
