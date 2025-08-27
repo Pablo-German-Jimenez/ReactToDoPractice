@@ -21,7 +21,7 @@ A simple and functional app to manage your daily tasks, built with React. Add, c
 
 ## 📦 Installation
 
-```bash
+
 git clone https://github.com/your-username/react-task-list.git
 cd react-task-list
 npm install
